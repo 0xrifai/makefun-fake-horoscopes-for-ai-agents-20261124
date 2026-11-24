@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+deno.lock
+
+# Build outputs
+dist/
+build/
+out/
+output/
+
+# OS and editor artefacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and temp files
+*.log
+*.tmp
+tmp/
